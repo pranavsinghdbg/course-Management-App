@@ -43,17 +43,22 @@ Specify the expected start and end dates for the project
 
 > interface for course management.
 
-
+```
+Home page
+```
 ![Screenshot (1038)](https://github.com/pranavsinghdbg/course-Management-App/assets/141660425/742e24d5-e3b1-47ad-aec6-f9ba2127ba1a)
 
-
+```
+ Users can search for and view course details
+```
 ![Screenshot (1039)](https://github.com/pranavsinghdbg/course-Management-App/assets/141660425/116afcfa-c0ee-4e5a-a59c-750285533164)
 
+```
+Courses that are no longer offered can be removed
+```
 
 ![Screenshot (1041)](https://github.com/pranavsinghdbg/course-Management-App/assets/141660425/bdc5f60e-ba05-489d-b2a0-3c0fa6f4484b)
 
-
-![Screenshot (1042)](https://github.com/pranavsinghdbg/course-Management-App/assets/141660425/70431f73-1de5-4dc7-b89e-4984f26a3a1a)
 
 
 
